@@ -1,2 +1,2 @@
-# Mini Banking Management Database System
+# Mini Banking Database Management System
 
