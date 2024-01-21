@@ -1,2 +1,2 @@
-# banksys
-Mini Banking Management Database System
+# Mini Banking Management Database System
+
